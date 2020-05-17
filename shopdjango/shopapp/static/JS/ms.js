@@ -113,3 +113,4 @@ setInterval(function(){
     var s = timer.getSeconds();
     document.getElementById('clock').innerHTML = h + ":" + m + ":" + s;
 },1000);
+
